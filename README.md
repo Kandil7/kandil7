@@ -42,10 +42,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saidjohn&limit=5&theme=radical&combine_all_yearly_contributions=true)
-</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=saidjohn&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandil7&label=Profile%20views&color=0e75b6&style=flat" alt="kandil7" /> </p>
 
