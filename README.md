@@ -35,7 +35,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kandil7&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kandil7&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=saidov_saidjohn&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
