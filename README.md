@@ -61,7 +61,6 @@
 
 <div align="center">
     <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kandil7&theme=github_dark" alt="Kandil's GitHub Stats"/>   
-    <img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=github_dark" alt="Kandil's Contribution Streak"/>
 </div>
 
 <br/> <!--- Add some spacing -->
