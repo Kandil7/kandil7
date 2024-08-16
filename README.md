@@ -8,7 +8,7 @@
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kandil7&theme=github_dark&utcOffset=10" alt="Mohamed Kandil's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kandil7n&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
     </tr>
  </table>
