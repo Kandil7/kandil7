@@ -14,36 +14,6 @@
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kandil7&theme=github_dark" alt="Kandil's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=github_dark" alt="Kandil's Contribution Streak"/></td>
     </tr>
- 
-</table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kandil7&theme=github_dark&utcOffset=10" alt="Mohamed Kandil's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
-<div>
-  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kandil7&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=saidov_saidjohn&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kandil7&theme=github_dark&limit=5&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=kandil7&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
@@ -112,9 +82,34 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
+ 
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandil7&show_icons=true&locale=en&layout=compact" alt="kandil7" /></p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kandil7&theme=github_dark&utcOffset=10" alt="Mohamed Kandil's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
+<div>
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kandil7&show_icons=true&locale=en" alt="kandil7" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&" alt="kandil7" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kandil7&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=saidov_saidjohn&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kandil7&theme=github_dark&limit=5&combine_all_yearly_contributions=true)
+
+---
+
