@@ -25,12 +25,12 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
     </tr>
  </table>
-</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saidjohn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saidjohn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidjohn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saidjohn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
