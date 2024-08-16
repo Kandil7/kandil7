@@ -11,24 +11,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Kandil7?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Kandil7?tab=repositories](https://github.com/Kandil7?tab=repositories)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me: **mohamedkandeal7@gmail.com**
-
-- ⚡ Fun fact: **I love combining technology with creative solutions!**
-
----
-
-### 🌟 Latest Projects
-
-<!-- Use GitHub Actions or a similar service to automatically update this list -->
-- [Project 1 Name](https://github.com/Kandil7/project-1): Brief description of the project.
-- [Project 2 Name](https://github.com/Kandil7/project-2): Brief description of the project.
-- [Project 3 Name](https://github.com/Kandil7/project-3): Brief description of the project.
-
----
+- 📫 How to reach me **mohamedkandeal7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,14 +26,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed.kandil_" height="30" width="40" />
   </a>
 </p>
-
----
-
-### 🎵 Now Playing on Spotify
-
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -87,10 +66,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-### 📊 GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kandil7&show_icons=true&locale=en&layout=compact" alt="kandil7" /></p>
 
