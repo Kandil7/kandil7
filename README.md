@@ -2,7 +2,16 @@
 <h3 align="center">A passionate Mobile Developer from Egypt</h3>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[kandil7]&theme=github_dark" alt="[Mohamed Kandil]'s GitHub Stats"/>
+    </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kandil7&theme=github_dark&utcOffset=10" alt="Mohamed Kandil's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kandil7n&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
+    </tr>
+ </table>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandil7&label=Profile%20views&color=0e75b6&style=flat" alt="kandil7" /> </p>
