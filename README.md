@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Kandil</h1>
 <h3 align="center">A passionate Mobile Developer from Egypt</h3>
 
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <div align="center">
