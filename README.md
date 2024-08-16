@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Kandil</h1>
 <h3 align="center">A passionate Mobile Developer from Egypt</h3>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <div align="center">
     <div align="center">
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
