@@ -91,8 +91,6 @@
 
 <br/> <!--- Add some spacing -->
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=saidov_saidjohn&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ## 🔝 Top Contributed Repo
 <div align="center">
