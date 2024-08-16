@@ -15,10 +15,10 @@
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kandil7&theme=github_dark" alt="Kandil's GitHub Stats"/></td>   
        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=github_dark" alt="Kandil's Contribution Streak"/></td>
     </tr>
-[![](https://visitcount.itsvg.in/api?id=kandil7&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kandil7&label=Profile%20views&color=0e75b6&style=flat" alt="kandil7" /> </p>
+
 
 
 
