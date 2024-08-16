@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Developer from Egypt</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxsYTNpdjR1ZGd3bncwYnRrc2c2anI4ZXN3dzh1emlkOG9scWUweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)" width="100"/>
 </div>
 
 <div align="center">
