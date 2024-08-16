@@ -25,12 +25,15 @@
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/></td>
     </tr>
  </table>
+</div>
+<div>
+  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saidjohn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saidjohn&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidjohn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saidjohn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -39,7 +42,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saidjohn&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=saidjohn&icon=0&color=0)](https://visitcount.itsvg.in)
 
