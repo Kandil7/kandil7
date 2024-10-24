@@ -90,12 +90,12 @@
 
 <br/> <!--- Add some spacing -->
 
-
+<!---
 ## 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=kandil7&theme=github_dark&limit=5&combine_all_yearly_contributions=true" />
 </div>
-
+-->
 ---
 
 ## Connect with me:
