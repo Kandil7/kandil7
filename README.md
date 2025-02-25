@@ -1,102 +1,166 @@
-<h1 align="center">Hi 👋, I'm Mohamed Kandil</h1>
-<h3 align="center">A passionate Mobile Developer from Egypt</h3>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Kandil</title>
+    <style>
+        body {
+            font-family: 'Ubuntu', sans-serif;
+            margin: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            color: white;
+        }
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
-</div>
+        .profile-container {
+            max-width: 1200px;
+            width: 100%;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
 
-## 💫 About Me:
+        .profile-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            backdrop-filter: blur(10px);
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: transform 0.3s ease;
+        }
 
-<p align="center">
-  I'm a passionate mobile developer constantly exploring new technologies and pushing the boundaries of what's possible on mobile devices. I thrive on turning creative ideas into elegant and functional apps. 
-</p>
+        .profile-card:hover {
+            transform: translateY(-5px);
+        }
 
-- 🌱 I’m currently learning **Machine Learning**.
-- 👨‍💻 Explore all my projects at [https://github.com/Kandil7?tab=repositories](https://github.com/Kandil7?tab=repositories).
-- 💬 Ask me about **Flutter** – I love to share my knowledge!
-- 📫 Reach out to me at **mohamedkandeal7@gmail.com**. 
+        .profile-pic {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            object-fit: cover;
+            box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.2);
+            transition: transform 0.3s ease;
+        }
 
-## 🚀 Skills & Tools
+        .profile-card:hover .profile-pic {
+            transform: rotate(15deg);
+        }
 
-<p align="center"> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
+        .skill-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+            padding: 1rem;
+        }
 
-## 📈 GitHub Metrics 
+        .skill-card {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: transform 0.3s ease;
+        }
 
-<div align="center">
-    <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kandil7&theme=github_dark" alt="Kandil's GitHub Stats"/>   
-</div>
+        .skill-card:hover {
+            transform: scale(1.05);
+        }
 
-<br/> <!--- Add some spacing -->
+        .social-icon {
+            color: white;
+            padding: 0.5rem;
+            transition: color 0.3s ease;
+        }
 
-<div align="center">
-  <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/>
-  <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kandil7&theme=github_dark&utcOffset=10" alt="Mohamed Kandil's GitHub Stats"/>
-  <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/>
-  <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kandil7&theme=github_dark" alt="Mohamed Kandil's GitHub Stats"/>
-</div>
+        .social-icon:hover {
+            color: #00bcd4;
+        }
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kandil7&label=Profile%20views&color=0e75b6&style=flat" alt="kandil7" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kandil7&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="kandil7" />
-  </a> 
-</p>
+        @media (max-width: 768px) {
+            .profile-container {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile-card">
+            <img src="https://github.com/Kandil7.png" alt="Profile" class="profile-pic">
+            <h1>Mohamed Kandil</h1>
+            <h3>Flutter Engineer | AI Enthusiast | Mobile Development Advocate</h3>
+            <p>"Building intuitive mobile experiences with machine learning magic"</p>
+            <div class="social-icons">
+                <a href="mailto:mohamedkandeal7@gmail.com" class="social-icon">📧</a>
+                <a href="https://linkedin.com/in/mohamedkandil" class="social-icon">🔗</a>
+                <a href="https://github.com/Kandil7" class="social-icon">💻</a>
+            </div>
+        </div>
 
+        <div class="profile-card">
+            <h2>🚀 Skills Matrix</h2>
+            <div class="skill-container">
+                <div class="skill-card">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48">
+                    <h4>Flutter</h4>
+                    <p>Native-like apps with Dart</p>
+                </div>
+                <div class="skill-card">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48">
+                    <h4>Dart</h4>
+                    <p>Modern backend-agnostic language</p>
+                </div>
+                <div class="skill-card">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="48">
+                    <h4>Firebase</h4>
+                    <p>Cloud-based mobile solutions</p>
+                </div>
+                <div class="skill-card">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48">
+                    <h4>Python</h4>
+                    <p>Machine Learning & Data Science</p>
+                </div>
+                <div class="skill-card">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48">
+                    <h4>TensorFlow</h4>
+                    <p>Deep Learning Solutions</p>
+                </div>
+            </div>
+        </div>
 
-## 📊 GitHub Stats:
+        <div class="profile-card">
+            <h2>📊 GitHub Activity</h2>
+            <img src="https://github-readme-stats.vercel.app/api?username=Kandil7&theme=react&show_icons=true&count_private=true" alt="Stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Kandil7&theme=react" alt="Streak">
+        </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=github_dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandil7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-<br/> <!--- Add some spacing -->
-
-<!---
-## 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kandil7&theme=github_dark&limit=5&combine_all_yearly_contributions=true" />
-</div>
--->
----
+        <div class="profile-card">
+            <h2>🌐 Recent Projects</h2>
+            <a href="https://github.com/Kandil7/Flutter-ML-Kit">
+                <div class="project-card">
+                    <h3>Flutter ML Kit Integration</h3>
+                    <p>Machine learning capabilities for mobile apps</p>
+                </div>
+            </a>
+            <a href="https://github.com/Kandil7/Smart-Inventory">
+                <div class="project-card">
+                    <h3>Smart Inventory System</h3>
+                    <p>Real-time inventory management solution</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
 
 ## Connect with me:
 <p align="center">
