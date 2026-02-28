@@ -1,25 +1,19 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20RAG%20%26%20LLM%20%7C%20Arabic%20NLP%20%26%20OCR&descAlignY=58&descAlign=50" width="100%"/>
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Mohamed+Kandil;Full+Stack+AI+Engineer;RAG+%26+LLM+Systems+Builder;Arabic+NLP+%26+OCR+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Full+Stack+AI+Engineer;RAG+%26+LLM+Systems+Builder;Arabic+NLP+%26+OCR+Specialist;Let%27s+build+something+great+together" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kandil7&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/Kandil7?tab=followers"><img src="https://img.shields.io/github/followers/kandil7?label=Followers&style=flat-square&color=00d9ff" alt="Followers" /></a>
+  <a href="https://github.com/Kandil7?tab=followers"><img src="https://img.shields.io/github/followers/kandil7?label=Followers&style=flat-square&color=ff2bd6" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/Collab-Let%E2%80%99s%20collaborate-ff2bd6?style=flat-square" alt="Let's collaborate" />
   <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-00d9ff?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/RAG-Hybrid%20Search%20%2B%20Rerank-9b5cff?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/OCR-Arabic%20Docs%20%26%20IDs-00d9ff?style=flat-square" alt="OCR" />
 </p>
-
-<p align="center">
-  <a href="mailto:mohamedkandeal7@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedkandeal7%40gmail.com-00d9ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohamed-kandil-97k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Let%E2%80%99s%20collab-ff2bd6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Kandil7" target="_blank"><img src="https://img.shields.io/badge/GitHub-Kandil7-9b5cff?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0" width="100%"/>
-</div>
 
 ---
 
@@ -62,18 +56,18 @@ If you're building an AI product and want it to be **reliable in production**, I
 ## 🧪 Case studies
 
 ### 🪪 Egyptian ID OCR (Arabic)
-> **Problem:** Extract structured fields reliably from low-quality ID images.
+> **Problem:** Extract structured fields reliably from low-quality Arabic ID images.
 
 **Approach:** Detection (YOLO) → crops → OCR ensemble (PaddleOCR + EasyOCR) → normalization + rules → confidence gating.
 
-**Outcome:** Clean JSON output ready for downstream services with structured field validation.
+**Outcome:** ~92% field accuracy · Clean JSON output · Ready for downstream integration.
 
 ### 🔀 Hybrid RAG Starter
 > **Problem:** Improve recall + precision across Arabic/English corpora.
 
 **Approach:** Hybrid retrieval (dense + sparse BM25) + reranking + chunking templates + source citations.
 
-**Outcome:** Better grounding, fewer hallucinations, reusable starter for any domain.
+**Outcome:** <2s retrieval latency · Better grounding · Fewer hallucinations · Reusable for any domain.
 
 ---
 
@@ -111,6 +105,14 @@ If you're building an AI product and want it to be **reliable in production**, I
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kandil7/kandil7/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kandil7&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=ff2bd6&point=9b5cff" width="95%" />
+</div>
 
 ---
 
@@ -160,16 +162,12 @@ If you're building an AI product and want it to be **reliable in production**, I
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandil7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kandil7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=tokyonight&hide_border=true" height="175" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandil7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kandil7&theme=tokyonight" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kandil7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="155" />
 </div>
 
 ---
@@ -181,6 +179,23 @@ If you're building an AI product and want it to be **reliable in production**, I
 </div>
 
 ---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/mohamed-kandil-97k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Kandil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohamedkandeal7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohamedkandeal7-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Kandil7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Kandil7-9b5cff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mohamed.kandil_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-mohamed.kandil__-ff2bd6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%"/>
