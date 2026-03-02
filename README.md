@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-mohamedkandeal7%40gmail.com-00d9ff?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/mohamed-kandil-97k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%E2%80%99s%20collab-ff2bd6?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let&#39;s%20collab-ff2bd6?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Kandil7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Kandil7-9b5cff?style=flat-square&logo=github&logoColor=white"/>
