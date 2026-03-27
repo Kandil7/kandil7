@@ -1,144 +1,294 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=140&section=header&text=Mohamed%20Kandil&fontSize=40&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20RAG%20%26%20LLMs%20%7C%20Arabic%20OCR&descAlignY=58&descAlign=50" width="100%"/>
-</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+production+AI+systems;Designing+RAG+pipelines+that+actually+work;Shipping+Arabic+OCR+%26+NLP+in+the+real+world" alt="Typing SVG" />
-</h1>
+# 👋 Hi, I'm Mohamed Kandil
+
+### Full Stack AI Engineer | Building Production AI Systems
 
 <p align="center">
   <a href="mailto:mohamedkandeal7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohamedkandeal7%40gmail.com-00d9ff?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/mohamed-kandil-97k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let&#39;s%20collab-ff2bd6?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/mohamed-kandil-97k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Kandil7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kandil7-9b5cff?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/Kandil7">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Production+AI+Systems;RAG+%7C+OCR+%7C+NLP+%7C+LLMs;Arabic-First+AI+Solutions;Full+Stack+AI+Engineer" alt="Typing SVG" />
+
+</div>
+
 ---
 
-## 🧬 Snapshot
+## 🚀 About Me
 
-```bash
-$ whoami
-Full Stack AI Engineer — Egypt (EET)
-
-$ focus
-RAG systems · LLM apps · Arabic OCR/NLP · FastAPI backends
-
-$ currently_building
-LMS backend · Egyptian ID OCR · Hybrid RAG engine · Quranic KB
+```python
+class FullStackAIEngineer:
+    def __init__(self):
+        self.name = "Mohamed Kandil"
+        self.location = "Egypt 🇪🇬"
+        self.title = "Full Stack AI Engineer"
+        
+    def expertise(self):
+        return {
+            "ai_ml": ["RAG Systems", "OCR/Document AI", "NLP", "LLMs"],
+            "backend": ["FastAPI", "Python", "Docker", "Microservices"],
+            "databases": ["MongoDB", "Qdrant", "PostgreSQL"],
+            "cloud": ["Azure", "AWS"],
+            "specialization": "Arabic NLP & Computer Vision"
+        }
+    
+    def currently_building(self):
+        return [
+            "🎓 LMS Backend (FastAPI + MongoDB + Azure)",
+            "🪪 Egyptian ID OCR System (YOLO + PaddleOCR)",
+            "🔀 Hybrid RAG Engine (Dense + BM25 + Reranking)",
+            "📖 Quranic Knowledge Base (RAG + Arabic NLP)"
+        ]
 ```
 
 ---
 
-## 🛠 What I do
+## 🛠️ Tech Stack
 
-| Area | What it means in practice |
-|------|---------------------------|
-| 🔍 RAG Systems | Hybrid retrieval (dense + BM25) · rerank · eval · observability |
-| 🪪 Arabic OCR | Detection → OCR ensemble → post‑processing → structured JSON APIs |
-| ⚙️ Backend | FastAPI · clean architecture · Docker · CI/CD · auth/JWT |
-| 🌐 Multilingual AI | Arabic‑first UX · embeddings · custom normalization & tokenization |
+<div align="center">
 
----
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📚 Recent work (highlighted)
+### AI/ML & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### 🪪 Egyptian ID OCR (Arabic)
+### Databases & Vector Stores
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=pinecone&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Goal:** Turn noisy ID images into clean, validated JSON.
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**How:** YOLO detection → crops → PaddleOCR + EasyOCR ensemble → rules & confidence gating.
-
-**Result:** ~92% field‑level accuracy on real samples, ready for bank/fintech KYC APIs.
-
-`Tech:` YOLO · PaddleOCR · EasyOCR · OpenCV · FastAPI
-
----
-
-### 🔀 Hybrid RAG Starter
-
-**Goal:** Make it easy to ship grounded Q&A over mixed Arabic/English corpora.
-
-**How:** Dense + BM25 hybrid search, reranking, smart chunking, source citations, eval scripts.
-
-**Result:** <2s end‑to‑end latency on typical corpora with noticeably fewer hallucinations.
-
-`Tech:` Python · Qdrant · BM25 · LLM APIs · LangChain‑style pipelines
+</div>
 
 ---
 
-### 🎓 LMS Backend
+## 💼 Featured Projects
 
-**Goal:** Backend‑first LMS that can grow into a full product.
+<table>
+<tr>
+<td width="50%">
 
-**How:** Modular FastAPI services, JWT auth, role‑based access, media storage on Azure Blob.
+### 🪪 Egyptian ID OCR System
+**Production-ready Arabic OCR pipeline**
 
-**Result:** Ready to plug into any web/mobile frontend and scale with real users.
+- 🎯 YOLO detection → OCR ensemble → JSON APIs
+- 🔥 PaddleOCR + EasyOCR with confidence gating
+- ✅ ~92% field-level accuracy on real samples
+- 🏦 Ready for fintech/KYC applications
 
-`Tech:` FastAPI · MongoDB · Azure Blob · Docker · JWT
+**Tech:** `YOLO` `PaddleOCR` `EasyOCR` `OpenCV` `FastAPI`
+
+</td>
+<td width="50%">
+
+### 🔀 Hybrid RAG Engine
+**Advanced retrieval system for Q&A**
+
+- 🚀 Dense + BM25 hybrid search with reranking
+- 📚 Smart chunking & source citations
+- ⚡ <2s latency with reduced hallucinations
+- 🌐 Optimized for Arabic/English corpora
+
+**Tech:** `Qdrant` `BM25` `LangChain` `OpenAI` `Cohere`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 Learning Management System
+**Scalable LMS backend from scratch**
+
+- 🔐 JWT auth with role-based access control
+- 📦 Modular FastAPI microservices
+- ☁️ Azure Blob for media storage
+- 🐳 Fully containerized with Docker
+
+**Tech:** `FastAPI` `MongoDB` `Azure Blob` `Docker` `JWT`
+
+</td>
+<td width="50%">
+
+### 📖 Quranic Knowledge Base
+**Islamic RAG system with Arabic NLP**
+
+- 🕌 Quran, Hadith, Tafsir with vector search
+- 🔍 Semantic search with Arabic embeddings
+- 📊 Knowledge graph integration
+- 🎯 Context-aware retrieval
+
+**Tech:** `Qdrant` `Arabic NLP` `RAG` `FastAPI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Now building
+## 🎯 What I Do
 
-```text
-┌─────────────────────────────────────────────────────────────────┐
-│  🎓 LMS Backend       FastAPI · MongoDB · Azure Blob · JWT      │
-│  🪪 Egyptian ID OCR   YOLO · PaddleOCR · EasyOCR · Validation   │
-│  🔀 Hybrid RAG        Qdrant · BM25 · Rerank · Eval pipeline    │
-│  📖 Quranic KB        RAG · Arabic NLP · Knowledge graphs       │
-└─────────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔍 RAG Systems
+Hybrid retrieval (dense + BM25)<br/>
+Reranking • Evaluation<br/>
+Observability & monitoring
+
+</td>
+<td width="33%" align="center">
+
+### 🪪 Arabic OCR
+Detection → OCR ensemble<br/>
+Post-processing pipelines<br/>
+Structured JSON APIs
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Backend Engineering
+FastAPI • Clean architecture<br/>
+Docker • CI/CD<br/>
+Auth & security (JWT)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🌐 Multilingual AI
+Arabic-first UX<br/>
+Custom embeddings<br/>
+Normalization & tokenization
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 LLM Applications
+Prompt engineering<br/>
+Function calling<br/>
+Agent frameworks
+
+</td>
+<td width="33%" align="center">
+
+### 📱 Full Stack
+Flutter mobile apps<br/>
+RESTful APIs<br/>
+End-to-end systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kandil7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kandil7&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandil7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/Kandil7/Kandil7/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kandil7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/Kandil7)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced RAG patterns & optimization
+  - Production ML deployment strategies
+  - System design for scalable AI
+  - Edge AI & on-device ML
+
+Building:
+  - Production-grade AI systems
+  - Arabic NLP solutions
+  - Full-stack AI applications
+  - Open-source contributions
+
+Goals:
+  - Master RAG architecture
+  - Build impactful Arabic AI tools
+  - Contribute to open-source AI projects
+  - Establish expertise in MLOps
 ```
 
 ---
 
-## 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kandil7/kandil7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kandil7/kandil7/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Kandil7/kandil7/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 📈 Activity & stats
+## 💬 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kandil7&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=ff2bd6&point=9b5cff" width="95%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kandil7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kandil7&theme=tokyonight&hide_border=true" height="170" />
-</div>
+💼 **Open to collaborations, freelance projects, and full-time opportunities**
 
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/mohamed-kandil-97k" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Kandil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+  <a href="https://linkedin.com/in/mohamed-kandil-97k">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohamedkandeal7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohamedkandeal7-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Kandil7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kandil7-9b5cff?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mohamed.kandil_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mohamed.kandil__-ff2bd6?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://github.com/Kandil7">
+    <img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Kandil7&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+</div>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=110&section=footer" width="100%"/>
+
+### ⚡ "Building AI systems that actually work in production" ⚡
+
 </div>
